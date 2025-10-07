@@ -133,7 +133,7 @@ def generate_dummy_data(num_samples=100):
         'Target': np.random.choice([0, 1, 2], size=num_samples)
     })
     return data  #getting data as matrix
-set_background("C:/Users/diva1/OneDrive/Pictures/finalpp.jpg")      #paste image path 
+set_background("C:/Users/diva1/OneDrive/Pictures/do-translate-from-from-eng-to-bg-and-dee-to-bg.jpg")      #paste image path
 ### transator
 translator = GoogleTranslator()     #initiaize translater function
 ### PAGE FUNCTION
