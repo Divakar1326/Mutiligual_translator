@@ -9,3 +9,4 @@ imbalanced-learn==0.14.0
 deep-translator>=1.10.1
 transliterate>=1.10.2
 SpeechRecognition>=3.10.0
+plotly
