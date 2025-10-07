@@ -7,3 +7,4 @@ gtts
 requests
 imblearn
 deep_translator
+transliterate
