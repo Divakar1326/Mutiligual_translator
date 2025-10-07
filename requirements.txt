@@ -8,3 +8,4 @@ requests
 imblearn
 deep_translator
 transliterate
+speech_recognition
